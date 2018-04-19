@@ -150,3 +150,4 @@ public class QRCodeScanActivity extends ScannerActivity
 
 调用Bitmap createQrCode(String content, final int width, final int height)方法即可生成指定大小的二维码。
 
+
